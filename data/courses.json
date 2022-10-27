@@ -1,0 +1,50 @@
+[
+    {
+        "id": "01",
+        "name": "Introduction",
+        "price": "5",
+        "description": "Learning Python gives the programmer a wide variety of career paths to choose from. Python is an open-source (free) programming language that is used in web programming, data science, artificial intelligence, and many scientific applications. Learning Python allows the programmer to focus on solving problems, rather than focusing on syntax. Its relative size and simplified syntax give it an edge over languages like Java and C++, yet the abundance of libraries gives it the power needed to accomplish great things.In this tutorial you will create a guessing game application that pits the computer against the user. You will create variables, decision constructs, and loops in python to create the game.Note: This course works best for learners who are based in the North America region. We’re currently working on providing the same experience in other regions.",
+        "image": "https://cdn.educba.com/academy/wp-content/uploads/2019/03/Introduction-To-Python.png.webp",
+        "rating": "4.5"
+    },
+    {
+        "id": "02",
+        "name": "The Basics",
+        "price": "10",
+        "description": "Python uses new lines to complete a command, as opposed to other programming languages which often use semicolons or parentheses. Python relies on indentation, using whitespace, to define scope; such as the scope of loops, functions and classes. Other programming languages often use curly-brackets for this purpose.",
+        "image": "https://talent.huaweiuniversity.com/asset-v1:HuaweiX+EBG2020NCHW1100108+Self-paced+type@asset+block@639a87e850bd11ebadf8fa163e8e7caa_Python.jpg",
+        "rating": "4.7"
+    },
+    {
+        "id": "03",
+        "name": "Working With Data",
+        "price": "15",
+        "description": "Working with the .data file extension is pretty simple and is more or less identifying the way the data is sorted, and then using Python commands to access the file accordingly. What is a .data file? .data files were developed as a means to store data.",
+        "image": "https://academy.vertabelo.com/og-image/course/python-data-science.png",
+        "rating": "4.6"
+    },
+    // {
+    //     "id": "04",
+    //     "name": "Validating in Python",
+    //     "price": "20",
+    //     "description": "Whenever the user accepts an input, it needs to be checked for validation which checks if the input data is what we are expecting. The validation can be done in two different ways, that is by using a flag variable or by using try or except which the flag variable will be set to false initially and if we can find out that the input data is what we are expecting the flag status can be set to true and find out what can be done next based on the status of the flag whereas while using try or except, a section of code is tried to run. If there is a negative response, then the except block of code is run.The status of the flag is set to false initially, and the same condition is considered for a while loop to make the statement while not true, and the validation is performed setting the flag to true if the validation condition is satisfied; otherwise, the error message is printed.print(‘run the code from here if code is successfully run in the try block of code above).We set the condition to be true initially and perform the necessary validation by running a block of code, and if the code fails to perform the validation, an exception is raised displaying the error message and a success message is printed if the try block successfully executes the code.",
+    //     "image": "https://cdn.educba.com/academy/wp-content/uploads/2020/04/Python-Validation.jpg",
+    //     "rating": "4.8"
+    // },
+    // {
+    //     "id": "05",
+    //     "name": "Loops in Python",
+    //     "price": "25",
+    //     "description": "A concept in Python programming package that allows repetition of certain steps, or printing or execution of the similar set of steps repetitively, based on the keyword that facilitates such functionality being used, and that steps specified under the keyword automatically indent accordingly is known as loops in python. It is acting as a block, with “while” continuing to execute until a certain specified condition is met and “for” executing till the index variable in the specified range of values reaches its final value.Looping is a common phenomenon in any programming language; From a python perspective, the powerful programming language offers two broad categories of loops.In general, statements are executed sequentially: The first statement in a function is executed first, followed by the second, and so on. There may be a situation when you need to execute a block of code several number of times.Programming languages provide various control structures that allow for more complicated execution paths.A loop statement allows us to execute a statement or group of statements multiple times.",
+    //     "image": "https://miro.medium.com/max/640/1*6xRN6XXIKVKhH7qZfKnidQ.png",
+    //     "rating": "4.5"
+    // },
+    // {
+    //     "id": "06",
+    //     "name": "Function in Python",
+    //     "price": "30",
+    //     "description": " Functions are blocks of code that are used to carry out various kinds of commonly done tasks. They help in ensuring the conciseness of the code by reducing data redundancy.A function can be related to the process of making tea. If you were to make tea for the first time, your parents would have defined the steps to make it. The next time they want to drink tea, they’ll call out to you directly by saying ‘Make Tea’.Similarly, in the case of functions, you first define the sequence of steps that you would like to carry out to achieve a certain task. Later, you can call out the Function by its name, and these steps will be performed.Functions can be both built-in or user-defined. It helps the program to be concise, non-repetitive, and organized. We can create a Python function using the def keyword. After creating a function we can call it by using the name of the function followed by parenthesis containing parameters of that particular function.",
+    //     "image": "http://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2019/01/Python-Functions.png",
+    //     "rating": "4.5"
+    // }
+]
