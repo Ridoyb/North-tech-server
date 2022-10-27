@@ -45,6 +45,6 @@
         "price": "30",
         "description": " Functions are blocks of code that are used to carry out various kinds of commonly done tasks. They help in ensuring the conciseness of the code by reducing data redundancy.A function can be related to the process of making tea. If you were to make tea for the first time, your parents would have defined the steps to make it. The next time they want to drink tea, they’ll call out to you directly by saying ‘Make Tea’.Similarly, in the case of functions, you first define the sequence of steps that you would like to carry out to achieve a certain task. Later, you can call out the Function by its name, and these steps will be performed.Functions can be both built-in or user-defined. It helps the program to be concise, non-repetitive, and organized. We can create a Python function using the def keyword. After creating a function we can call it by using the name of the function followed by parenthesis containing parameters of that particular function.",
         "image": "http://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2019/01/Python-Functions.png",
-        // "rating": "4.5"
+        "rating": "4.5"
     }
 ]
